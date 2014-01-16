@@ -3,7 +3,7 @@
 ## Usage
 * clone this repository
 ~~~bash
-git clone https://github.com/tbpgr/tbpgr_utils_snippet.git
+git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 ~~~
 
 * copy snippets to your Subime Text2 'Packages/User' directory
