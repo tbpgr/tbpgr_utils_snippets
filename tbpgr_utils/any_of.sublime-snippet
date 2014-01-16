@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+any_of? ${1:args1}, ${2:args2}
+]]></content>
+  <tabTrigger>any_of</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>any_of method</description>
+</snippet>

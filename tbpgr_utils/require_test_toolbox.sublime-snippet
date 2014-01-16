@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'test_toolbox'
+]]></content>
+  <tabTrigger>require 'test_toolbox'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'test_toolbox'</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dp_line __LINE__, filename: __FILE__, char: '${1:char}'
+]]></content>
+  <tabTrigger>dp_line __LINE__, filename: __FILE__, char</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>dp_line __LINE__, filename: __FILE__, char</description>
+</snippet>

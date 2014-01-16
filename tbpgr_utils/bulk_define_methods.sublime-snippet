@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bulk_define_methods ${1:classes}, ${2:methods}, ${3:contents}
+]]></content>
+  <tabTrigger>bulk_define_methods</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>bulk_define_methods method</description>
+</snippet>

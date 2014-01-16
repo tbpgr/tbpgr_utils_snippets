@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+include AttributesInitializable
+]]></content>
+  <tabTrigger>include AttributesInitializable</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include AttributesInitializable</description>
+</snippet>

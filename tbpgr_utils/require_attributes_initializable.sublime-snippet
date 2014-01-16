@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'attributes_initializable'
+]]></content>
+  <tabTrigger>require 'attributes_initializable'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'attributes_initializable'</description>
+</snippet>

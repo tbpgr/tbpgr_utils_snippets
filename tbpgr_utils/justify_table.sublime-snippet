@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+justify_table
+]]></content>
+  <tabTrigger>justify_table</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>justify_table method</description>
+</snippet>

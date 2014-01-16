@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+print_eval ${1:code}, ${2:binding}
+]]></content>
+  <tabTrigger>print_eval</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>print_eval method</description>
+</snippet>

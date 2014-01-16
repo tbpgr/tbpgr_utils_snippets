@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+puts_eval ${1:code}, ${2:binding}
+]]></content>
+  <tabTrigger>puts_eval</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>puts_eval method</description>
+</snippet>

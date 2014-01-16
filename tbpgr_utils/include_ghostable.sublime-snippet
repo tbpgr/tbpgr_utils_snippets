@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+include Ghostable
+]]></content>
+  <tabTrigger>include Ghostable</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include Ghostable</description>
+</snippet>

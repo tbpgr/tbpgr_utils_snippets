@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+ghost_method "${1:pattern}", :${2:base_name} do |method_name, *args, &block|
+  ${0:method_contents}
+end
+]]></content>
+  <tabTrigger>ghost_method</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ghost_method method</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+include Templatable
+template <<-EOS
+${1:template_contents}
+EOS
+
+def manufactured_${2:placeholder}
+  ${3:placeholder_contents}
+end
+]]></content>
+  <tabTrigger>include Templatable</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include Templatable</description>
+</snippet>

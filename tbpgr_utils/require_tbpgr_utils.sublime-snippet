@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'tbpgr_utils'
+]]></content>
+  <tabTrigger>require 'tbpgr_utils'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'tbpgr_utils'</description>
+</snippet>
