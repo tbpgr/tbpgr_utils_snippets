@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+capture_stdout { ${1:use_stdout_code} }
+]]></content>
+  <tabTrigger>capture_stdout</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>capture_stdout</description>
+</snippet>
