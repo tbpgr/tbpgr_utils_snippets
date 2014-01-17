@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'template_methodable'
+]]></content>
+  <tabTrigger>require 'template_methodable'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'template_methodable'</description>
+</snippet>

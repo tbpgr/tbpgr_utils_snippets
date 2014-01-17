@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+include TemplateMethodable
+must_impl :${1:args1}
+]]></content>
+  <tabTrigger>include TemplateMethodable</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include TemplateMethodable</description>
+</snippet>
