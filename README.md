@@ -18,5 +18,6 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/01/18 - 2: add Object#to_bool(TbpgrUtils ver0.0.11).
 * 2014/01/17 - 2: add TemplateMethodable's template(TbpgrUtils ver0.0.10).
 * 2014/01/16 - 1: first release.

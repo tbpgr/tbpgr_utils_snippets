@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to_bool
+]]></content>
+  <tabTrigger>to_bool</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_bool</description>
+</snippet>
