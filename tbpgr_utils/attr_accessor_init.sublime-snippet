@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-attr_accessor_init ${1:args1}
+attr_reader_init ${1:args1}
 ]]></content>
-  <tabTrigger>attr_accessor_init</tabTrigger>
+  <tabTrigger>attr_reader_init</tabTrigger>
   <scope>source.ruby</scope>
-  <description>attr_accessor_init method</description>
+  <description>attr_reader_init method</description>
 </snippet>

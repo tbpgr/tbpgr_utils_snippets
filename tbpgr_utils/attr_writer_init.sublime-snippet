@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+attr_writer_init ${1:args1}
+]]></content>
+  <tabTrigger>attr_writer_init</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>attr_writer_init method</description>
+</snippet>
