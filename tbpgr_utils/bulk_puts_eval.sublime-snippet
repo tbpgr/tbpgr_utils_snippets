@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+bulk_puts_eval ${1:binding}, <<-EOS
+${2:multi_line_code}
+EOS
+]]></content>
+  <tabTrigger>bulk_puts_eval</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>bulk_puts_eval</description>
+</snippet>

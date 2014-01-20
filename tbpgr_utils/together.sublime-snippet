@@ -1,6 +1,8 @@
 <snippet>
   <content><![CDATA[
-together
+together do |${1:first}, ${2:second}|
+  ${0:block_logic}
+end
 ]]></content>
   <tabTrigger>together</tabTrigger>
   <scope>source.ruby</scope>
