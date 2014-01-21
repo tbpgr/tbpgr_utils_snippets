@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+together_collect do |${1:first}, ${2:second}|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>together_collect do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_collect method</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_collect {|${1:first}, ${2:second}|${0:block_logic}}
+]]></content>
+  <tabTrigger>together_collect {</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_collect method</description>
+</snippet>

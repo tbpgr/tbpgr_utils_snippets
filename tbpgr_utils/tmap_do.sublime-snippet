@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+tmap do |${1:first}, ${2:second}|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>tmap do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tmap method</description>
+</snippet>

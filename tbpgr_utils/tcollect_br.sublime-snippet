@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tcollect {|${1:first}, ${2:second}|${0:block_logic}}
+]]></content>
+  <tabTrigger>tcollect {</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tcollect method</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+together_map do |${1:first}, ${2:second}|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>together_map do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_map method</description>
+</snippet>

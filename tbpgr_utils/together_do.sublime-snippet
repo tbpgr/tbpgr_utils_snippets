@@ -4,7 +4,7 @@ together do |${1:first}, ${2:second}|
   ${0:block_logic}
 end
 ]]></content>
-  <tabTrigger>together</tabTrigger>
+  <tabTrigger>together do</tabTrigger>
   <scope>source.ruby</scope>
   <description>together method</description>
 </snippet>
