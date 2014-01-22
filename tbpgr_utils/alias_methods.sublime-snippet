@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+alias_methods [:${1:new_method1}, :${2:new_method2}], :${3:old_method3}
+]]></content>
+  <tabTrigger>alias_methods</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>alias_methods method</description>
+</snippet>
