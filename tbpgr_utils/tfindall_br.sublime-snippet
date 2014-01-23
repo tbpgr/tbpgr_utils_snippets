@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tfindall {|${1:first}, ${2:second}|${0:block_logic}}
+]]></content>
+  <tabTrigger>tfindall {</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tfindall method</description>
+</snippet>

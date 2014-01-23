@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+together_select do |${1:first}, ${2:second}, index|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>together_select do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_select method</description>
+</snippet>

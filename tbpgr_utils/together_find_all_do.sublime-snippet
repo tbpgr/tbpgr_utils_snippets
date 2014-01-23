@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+together_find_all do |${1:first}, ${2:second}, index|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>together_find_all do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_find_all method</description>
+</snippet>

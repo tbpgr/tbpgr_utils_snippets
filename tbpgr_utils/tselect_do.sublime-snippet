@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+tselect do |${1:first}, ${2:second}, index|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>tselect do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tselect method</description>
+</snippet>
