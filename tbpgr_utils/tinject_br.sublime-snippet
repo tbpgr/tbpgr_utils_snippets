@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tinject {|memo, ${1:first}, ${2:second}|${0:block_logic}}
+]]></content>
+  <tabTrigger>tinject {</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tinject method</description>
+</snippet>

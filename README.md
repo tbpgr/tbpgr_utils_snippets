@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/01/25 - ver9: add Array#together_reduce(or :treduce, :together_inject, :tinject)(TbpgrUtils ver0.0.17).
 * 2014/01/24 - ver8: add Array#together_select(aliases[:tselect, :together_find_all, :tfindall])(TbpgrUtils ver0.0.16).
 * 2014/01/22 - ver7: add Module#alias_methods(TbpgrUtils ver0.0.15).
 * 2014/01/21 - ver6: add Array#together_map(aliases[:tmap, :together_collect, :tcollect])(TbpgrUtils ver0.0.14).

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+treduce do |memo, ${1:first}, ${2:second}|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>treduce do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>treduce method</description>
+</snippet>

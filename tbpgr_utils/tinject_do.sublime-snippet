@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+tinject do |memo, ${1:first}, ${2:second}|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>tinject do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tinject method</description>
+</snippet>

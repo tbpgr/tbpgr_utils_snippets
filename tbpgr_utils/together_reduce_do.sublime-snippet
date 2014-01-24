@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+together_reduce do |memo, ${1:first}, ${2:second}|
+  ${0:block_logic}
+end
+]]></content>
+  <tabTrigger>together_reduce do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_reduce method</description>
+</snippet>
