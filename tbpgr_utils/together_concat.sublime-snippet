@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_concat [${1:other1}, ${2:other2}]
+]]></content>
+  <tabTrigger>together_concat</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_concat method</description>
+</snippet>

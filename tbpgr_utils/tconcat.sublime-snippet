@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tconcat [${1:other1}, ${2:other2}]
+]]></content>
+  <tabTrigger>tconcat</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tconcat method</description>
+</snippet>
