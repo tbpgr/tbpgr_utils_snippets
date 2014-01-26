@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+include AttributesHashable
+]]></content>
+  <tabTrigger>include AttributesHashable</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include AttributesHashable</description>
+</snippet>
