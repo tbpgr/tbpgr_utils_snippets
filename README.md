@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/01/27 - ver12: add Array#together_at(or :tat)(TbpgrUtils ver0.0.20).
 * 2014/01/26 - ver11: add AttributesHashable module(TbpgrUtils ver0.0.19).
 * 2014/01/26 - ver10: add Array#together_concat(or :tconcat)(TbpgrUtils ver0.0.18).
 * 2014/01/25 - ver09: add Array#together_reduce(or :treduce, :together_inject, :tinject)(TbpgrUtils ver0.0.17).
