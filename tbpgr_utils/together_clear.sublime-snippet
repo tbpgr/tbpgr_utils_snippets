@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_clear
+]]></content>
+  <tabTrigger>together_clear</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_clear method</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tclear
+]]></content>
+  <tabTrigger>tclear</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tclear method</description>
+</snippet>
