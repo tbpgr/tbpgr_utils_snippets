@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tcompact
+]]></content>
+  <tabTrigger>tcompact</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tcompact method</description>
+</snippet>

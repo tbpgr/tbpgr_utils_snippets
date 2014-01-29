@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_compact
+]]></content>
+  <tabTrigger>together_compact</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_compact method</description>
+</snippet>
