@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tdelete ${1:first}
+]]></content>
+  <tabTrigger>tdelete</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tdelete method</description>
+</snippet>
