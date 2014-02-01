@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/02/01 - ver16: add Array#together_delete_at(alias tdelete_at)
 * 2014/01/31 - ver15: add Array#together_delete(alias tdelete)
 * 2014/01/29 - ver14: add Array#together_compact(or :tcompact)(TbpgrUtils ver0.0.22).
 * 2014/01/28 - ver13: add Array#together_clear(or :tclear)(TbpgrUtils ver0.0.21).
