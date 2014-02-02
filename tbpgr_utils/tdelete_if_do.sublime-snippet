@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+tdelete_if do |first, second|
+  ${1:condition}
+end
+]]></content>
+  <tabTrigger>tdelete_if do</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tdelete_if method</description>
+</snippet>
