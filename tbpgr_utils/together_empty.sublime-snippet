@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_empty?
+]]></content>
+  <tabTrigger>together_empty?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_empty? method</description>
+</snippet>

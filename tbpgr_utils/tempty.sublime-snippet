@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tempty?
+]]></content>
+  <tabTrigger>tempty?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tempty? method</description>
+</snippet>
