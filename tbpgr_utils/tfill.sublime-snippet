@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tfill ${1:fill_value}
+]]></content>
+  <tabTrigger>tfill</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tfill method</description>
+</snippet>
