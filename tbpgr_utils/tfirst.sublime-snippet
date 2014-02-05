@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tfirst ${1:index}
+]]></content>
+  <tabTrigger>tfirst</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tfirst method</description>
+</snippet>
