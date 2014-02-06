@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_include? ${1:value}
+]]></content>
+  <tabTrigger>together_include?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_include? method</description>
+</snippet>

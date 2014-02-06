@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tinclude? ${1:value}
+]]></content>
+  <tabTrigger>tinclude?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tinclude? method</description>
+</snippet>
