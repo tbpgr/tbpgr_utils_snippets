@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tindex ${1:value}
+]]></content>
+  <tabTrigger>tindex</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tindex method</description>
+</snippet>
