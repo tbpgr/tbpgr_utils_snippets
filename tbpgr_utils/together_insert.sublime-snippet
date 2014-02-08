@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_insert ${1:index}, ${2:values}
+]]></content>
+  <tabTrigger>together_insert</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_insert method</description>
+</snippet>

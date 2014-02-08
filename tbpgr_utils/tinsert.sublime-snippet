@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tinsert ${1:index}, ${2:values}
+]]></content>
+  <tabTrigger>tinsert</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tinsert method</description>
+</snippet>
