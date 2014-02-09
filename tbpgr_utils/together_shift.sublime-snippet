@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_shift ${1:index}
+]]></content>
+  <tabTrigger>together_shift</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_shift method</description>
+</snippet>

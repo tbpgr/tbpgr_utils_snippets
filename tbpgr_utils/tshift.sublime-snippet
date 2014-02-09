@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tshift ${1:index}
+]]></content>
+  <tabTrigger>tshift</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tshift method</description>
+</snippet>
