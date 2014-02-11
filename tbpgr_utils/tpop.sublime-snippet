@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tpop ${1:index}
+]]></content>
+  <tabTrigger>tpop</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tpop method</description>
+</snippet>
