@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_reverse
+]]></content>
+  <tabTrigger>together_reverse</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_reverse method</description>
+</snippet>

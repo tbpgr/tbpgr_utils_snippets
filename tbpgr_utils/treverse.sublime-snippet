@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+treverse
+]]></content>
+  <tabTrigger>treverse</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>treverse method</description>
+</snippet>
