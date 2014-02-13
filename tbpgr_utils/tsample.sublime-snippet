@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tsample ${1:count}
+]]></content>
+  <tabTrigger>tsample</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tsample method</description>
+</snippet>
