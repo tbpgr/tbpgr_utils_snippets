@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/02/14 - ver29: add Array#together_shuffle(alias tshuffle).
 * 2014/02/13 - ver28: add Array#together_sample(alias tsample).
 * 2014/02/12 - ver27: add Array#together_reverse, Array#together_reverse!(alias treverse, treverse!).
 * 2014/02/12 - ver26: add Array#together_pop(alias tpop).

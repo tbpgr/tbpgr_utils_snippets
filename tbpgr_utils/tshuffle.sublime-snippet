@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tshuffle
+]]></content>
+  <tabTrigger>tshuffle</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tshuffle method</description>
+</snippet>
