@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+surround
+]]></content>
+  <tabTrigger>surround</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>surround method</description>
+</snippet>
