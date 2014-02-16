@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aa_ancestors
+]]></content>
+  <tabTrigger>aa_ancestors</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>aa_ancestors method</description>
+</snippet>
