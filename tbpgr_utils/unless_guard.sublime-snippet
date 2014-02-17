@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+unless_guard ${1:condition} { ${0:block} }
+]]></content>
+  <tabTrigger>unless_guard</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>unless_guard method</description>
+</snippet>
