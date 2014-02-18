@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/02/18 - ver33: add MetasyntacticVariable
 * 2014/02/17 - ver32: add Object#guard, unless_guard
 * 2014/02/16 - ver31: add Kernel#aa_ancestors.
 * 2014/02/15 - ver30: add String#surround.
