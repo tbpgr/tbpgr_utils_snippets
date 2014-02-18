@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-meta_variables
+META_VARIABLES
 ]]></content>
-  <tabTrigger>meta_variables</tabTrigger>
+  <tabTrigger>META_VARIABLES</tabTrigger>
   <scope>source.ruby</scope>
-  <description>meta_variables method</description>
+  <description>META_VARIABLES method</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-meta_classes
+META_CLASSES
 ]]></content>
-  <tabTrigger>meta_classes</tabTrigger>
+  <tabTrigger>META_CLASSES</tabTrigger>
   <scope>source.ruby</scope>
-  <description>meta_classes method</description>
+  <description>META_CLASSES method</description>
 </snippet>
