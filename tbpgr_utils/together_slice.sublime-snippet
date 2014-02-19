@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+together_slice ${1:args}
+]]></content>
+  <tabTrigger>together_slice</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>together_slice method</description>
+</snippet>
