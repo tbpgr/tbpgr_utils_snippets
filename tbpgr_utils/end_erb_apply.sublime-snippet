@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+EndERB.apply hash
+]]></content>
+  <tabTrigger>EndERB.apply</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>EndERB.apply method</description>
+</snippet>

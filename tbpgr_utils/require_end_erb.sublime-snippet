@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'end_erb'
+]]></content>
+  <tabTrigger>require 'end_erb'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'end_erb'</description>
+</snippet>
