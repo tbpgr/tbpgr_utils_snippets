@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+say ${1:option}
+]]></content>
+  <tabTrigger>say</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>say method</description>
+</snippet>
