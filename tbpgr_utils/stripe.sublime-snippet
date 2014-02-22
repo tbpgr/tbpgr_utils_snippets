@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+stripe ${1:lower_cap}
+]]></content>
+  <tabTrigger>stripe</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>stripe method</description>
+</snippet>
