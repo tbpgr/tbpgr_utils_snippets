@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/02/24 - ver38: add String#to_space2_heading
 * 2014/02/22 - ver37: add String#stripe
 * 2014/02/21 - ver36: add String#say
 * 2014/02/20 - ver35: add EndERB.apply

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to_space2_heading
+]]></content>
+  <tabTrigger>to_space2_heading</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_space2_heading method</description>
+</snippet>
