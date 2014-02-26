@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/02/26 - ver41: add String#to_markdown_heading
 * 2014/02/25 - ver40: add String#to_tab_heading
 * 2014/02/24 - ver39: add String#to_space4_heading
 * 2014/02/24 - ver38: add String#to_space2_heading

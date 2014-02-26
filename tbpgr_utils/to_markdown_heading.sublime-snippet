@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to_markdown_heading
+]]></content>
+  <tabTrigger>to_markdown_heading</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_markdown_heading method</description>
+</snippet>
