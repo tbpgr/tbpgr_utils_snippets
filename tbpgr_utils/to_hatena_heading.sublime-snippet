@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to_hatena_heading
+]]></content>
+  <tabTrigger>to_hatena_heading</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_hatena_heading method</description>
+</snippet>
