@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+include EvalHelper
+]]></content>
+  <tabTrigger>include EvalHelper</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include EvalHelper</description>
+</snippet>

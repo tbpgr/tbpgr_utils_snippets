@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+if_code_after ${1:condition}, ${2:if_proc}
+]]></content>
+  <tabTrigger>if_code_after</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>if_code_after method</description>
+</snippet>
