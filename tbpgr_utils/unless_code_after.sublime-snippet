@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+unless_code_after ${1:condition}, ${2:unless_proc}
+]]></content>
+  <tabTrigger>unless_code_after</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>unless_code_after method</description>
+</snippet>
