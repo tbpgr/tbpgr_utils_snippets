@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/03/05 - ver48: add EvalHelper#require_code
 * 2014/03/04 - ver47: add EvalHelper#ternary_operator
 * 2014/03/03 - ver46: add EvalHelper#unless_code_after
 * 2014/03/02 - ver45: add EvalHelper#unless_code

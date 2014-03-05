@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require_code ${1:args}
+]]></content>
+  <tabTrigger>require_code</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require_code method</description>
+</snippet>
