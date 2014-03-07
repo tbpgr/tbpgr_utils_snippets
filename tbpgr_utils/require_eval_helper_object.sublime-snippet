@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'eval_helper_object'
+]]></content>
+  <tabTrigger>require 'eval_helper_object'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'eval_helper_object'</description>
+</snippet>
