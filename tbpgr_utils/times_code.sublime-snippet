@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+times_code ${1:number}, ${2:proc}
+]]></content>
+  <tabTrigger>times_code</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>times_code method</description>
+</snippet>
