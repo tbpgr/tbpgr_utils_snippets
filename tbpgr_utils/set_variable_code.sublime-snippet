@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+set_variable_code ${1:name}, ${2:value}
+]]></content>
+  <tabTrigger>set_variable_code</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>set_variable_code method</description>
+</snippet>
