@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+set_variables_code ${1:hash}
+]]></content>
+  <tabTrigger>set_variables_code</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>set_variables_code method</description>
+</snippet>
