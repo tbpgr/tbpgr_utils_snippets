@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+comma_to_a
+]]></content>
+  <tabTrigger>comma_to_a</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>comma_to_a method</description>
+</snippet>

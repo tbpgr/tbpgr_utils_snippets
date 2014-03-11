@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+hyphen_to_a
+]]></content>
+  <tabTrigger>hyphen_to_a</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>hyphen_to_a method</description>
+</snippet>
