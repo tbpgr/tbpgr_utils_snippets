@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+each_with_index_brace_code ${1:target}, ${2:proc}
+]]></content>
+  <tabTrigger>each_with_index_brace_code</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>each_with_index_brace_code method</description>
+</snippet>
