@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/03/14 - ver57: add EvalHelper#each_with_index_do_code
 * 2014/03/13 - ver56: add EvalHelper#each_with_index_brace_code
 * 2014/03/12 - ver55: add EvalHelper#each_do_code
 * 2014/03/11 - ver54: add EvalHelper#each_brace_code, String#hyphen_to_a, String#comma_to_a
