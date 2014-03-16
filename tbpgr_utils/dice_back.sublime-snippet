@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dice_back
+]]></content>
+  <tabTrigger>dice_back</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>dice_back method</description>
+</snippet>
