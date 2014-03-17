@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dozen
+]]></content>
+  <tabTrigger>dozen</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>dozen method</description>
+</snippet>
