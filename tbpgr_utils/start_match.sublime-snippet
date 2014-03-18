@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+start_match ${1:proc}
+]]></content>
+  <tabTrigger>start_match</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>start_match method</description>
+</snippet>

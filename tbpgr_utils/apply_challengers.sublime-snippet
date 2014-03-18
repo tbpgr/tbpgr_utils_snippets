@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+apply_challengers ${1:challengers}
+]]></content>
+  <tabTrigger>apply_challengers</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>apply_challengers method</description>
+</snippet>

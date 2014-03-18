@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'simple_tournament'
+]]></content>
+  <tabTrigger>require simple_tournament</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require simple_tournament</description>
+</snippet>
