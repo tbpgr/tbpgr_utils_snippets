@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+no
+]]></content>
+  <tabTrigger>no</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>no method</description>
+</snippet>

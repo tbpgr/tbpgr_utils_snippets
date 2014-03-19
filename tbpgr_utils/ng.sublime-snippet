@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ng
+]]></content>
+  <tabTrigger>ng</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ng method</description>
+</snippet>

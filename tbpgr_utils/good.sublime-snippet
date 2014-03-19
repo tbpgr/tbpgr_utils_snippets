@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+good
+]]></content>
+  <tabTrigger>good</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>good method</description>
+</snippet>

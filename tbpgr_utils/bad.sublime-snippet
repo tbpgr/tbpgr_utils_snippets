@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bad
+]]></content>
+  <tabTrigger>bad</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>bad method</description>
+</snippet>

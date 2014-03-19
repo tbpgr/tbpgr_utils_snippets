@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+yes
+]]></content>
+  <tabTrigger>yes</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>yes method</description>
+</snippet>
