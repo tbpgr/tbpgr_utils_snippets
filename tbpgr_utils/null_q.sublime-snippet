@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+null
+]]></content>
+  <tabTrigger>null?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>null method</description>
+</snippet>
