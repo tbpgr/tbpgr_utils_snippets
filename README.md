@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/03/21 - ver64: add Kernel#evalb
 * 2014/03/20 - ver63: add Kernel#null, Object#null?
 * 2014/03/19 - ver62: add Kernel booleans
 * 2014/03/18 - ver61: add SimpleTournament

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+evalb ${1:binding}
+]]></content>
+  <tabTrigger>evalb</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>evalb method</description>
+</snippet>
