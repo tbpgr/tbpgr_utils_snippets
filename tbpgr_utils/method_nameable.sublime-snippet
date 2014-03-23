@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+method_nameable?
+]]></content>
+  <tabTrigger>method_nameable?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>method_nameable? method</description>
+</snippet>
