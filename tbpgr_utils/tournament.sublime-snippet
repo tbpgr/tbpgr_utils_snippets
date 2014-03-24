@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tournament
+]]></content>
+  <tabTrigger>tournament</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tournament method</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ascii1_other2_size
+]]></content>
+  <tabTrigger>ascii1_other2_size</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ascii1_other2_size method</description>
+</snippet>

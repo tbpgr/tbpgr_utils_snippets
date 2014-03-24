@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+is_ascii?
+]]></content>
+  <tabTrigger>is_ascii?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>is_ascii? method</description>
+</snippet>

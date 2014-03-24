@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+attr_init_class_code ${1:class_name}, ${2:fields}
+]]></content>
+  <tabTrigger>attr_init_class_code</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>attr_init_class_code method</description>
+</snippet>
