@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'metasyntactic_variable'
+]]></content>
+  <tabTrigger>require 'metasyntactic_variable'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'metasyntactic_variable'</description>
+</snippet>

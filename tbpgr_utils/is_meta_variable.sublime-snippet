@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+is_meta_variable?
+]]></content>
+  <tabTrigger>is_meta_variable?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>is_meta_variable? method</description>
+</snippet>
