@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/03/26 - ver69: add String#ascii_unicode_table
 * 2014/03/25 - ver68: add String#is_meta_variable?, Symbol#is_meta_variable?
 * 2014/03/24 - ver67: add EvalHelper#attr_init_class_code, Numeric#is_ascii?, String#ascii1_other2_size
 * 2014/03/23 - ver66: add Object#method_nameable?
