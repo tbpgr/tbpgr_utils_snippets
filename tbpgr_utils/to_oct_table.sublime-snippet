@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to_oct_table ${1:from}, ${2:to}
+]]></content>
+  <tabTrigger>to_oct_table</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_oct_table method</description>
+</snippet>
