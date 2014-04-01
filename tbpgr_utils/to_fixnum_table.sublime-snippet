@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to_fixnum_table ${1:from}, ${2:to}, ${3:by}
+]]></content>
+  <tabTrigger>to_fixnum_table</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_fixnum_table method</description>
+</snippet>
