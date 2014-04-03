@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-require 'eval_helper'
-]]></content>
-  <tabTrigger>require 'eval_helper'</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>require 'eval_helper'</description>
-</snippet>

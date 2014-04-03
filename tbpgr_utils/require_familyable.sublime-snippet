@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'familyable'
+]]></content>
+  <tabTrigger>require 'familyable'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'familyable'</description>
+</snippet>

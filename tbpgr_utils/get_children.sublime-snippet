@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+get_children ${1:person}
+]]></content>
+  <tabTrigger>get_children</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>get_children method</description>
+</snippet>

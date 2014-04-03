@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/04/03 - ver77: add Familyable
 * 2014/04/02 - ver76: add String#table_to_array
 * 2014/04/01 - ver75: add Fixnum to_fixnum_table
 * 2014/03/31 - ver74: add Numeric to_digit_table
