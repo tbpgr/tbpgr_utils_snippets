@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+spacing
+]]></content>
+  <tabTrigger>spacing</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>spacing method</description>
+</snippet>
