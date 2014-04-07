@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+hash_to_attributes ${1:hash}
+]]></content>
+  <tabTrigger>hash_to_attributes</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>hash_to_attributes method</description>
+</snippet>
