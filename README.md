@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/04/09 - ver83: add Fixnum#to_fixnum_html_table
 * 2014/04/08 - ver82: add Array#to_html_table
 * 2014/04/07 - ver81: add Kernel#hash_to_attributes
 * 2014/04/06 - ver80: add String#escape_quote
