@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+unescape_double_quote
+]]></content>
+  <tabTrigger>unescape_double_quote</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>unescape_double_quote method</description>
+</snippet>
