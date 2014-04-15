@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/04/15 - ver89: add Numeric.to_hex_html_table
 * 2014/04/14 - ver88: add Numeric.to_digit_html_table
 * 2014/04/13 - ver87: add Numeric.to_binary_html_table
 * 2014/04/12 - ver86: add Hash#html_table

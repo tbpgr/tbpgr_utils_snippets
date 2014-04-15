@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to_hex_html_table
+]]></content>
+  <tabTrigger>to_hex_html_table</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_hex_html_table method</description>
+</snippet>
