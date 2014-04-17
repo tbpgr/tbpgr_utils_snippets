@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ascii_unicode_html_table
+]]></content>
+  <tabTrigger>ascii_unicode_html_table</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ascii_unicode_html_table method</description>
+</snippet>
