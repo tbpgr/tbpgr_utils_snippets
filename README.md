@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/04/18 - ver92: add String#winpath_to_cygwinpath
 * 2014/04/17 - ver91: add String#ascii_unicode_html_table
 * 2014/04/16 - ver90: add Numeric.to_oct_html_table
 * 2014/04/15 - ver89: add Numeric.to_hex_html_table
