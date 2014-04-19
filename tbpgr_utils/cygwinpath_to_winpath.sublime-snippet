@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cygwinpath_to_winpath
+]]></content>
+  <tabTrigger>cygwinpath_to_winpath</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>cygwinpath_to_winpath method</description>
+</snippet>
