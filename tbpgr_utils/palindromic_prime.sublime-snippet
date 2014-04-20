@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+palindromic_prime?
+]]></content>
+  <tabTrigger>palindromic_prime?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>palindromic_prime? method</description>
+</snippet>
