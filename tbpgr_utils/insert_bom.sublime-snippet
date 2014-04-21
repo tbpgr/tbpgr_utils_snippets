@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-insert_bom ${1:input_file}, ${2:output_file}
-]]></content>
-  <tabTrigger>insert_bom</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>insert_bom method</description>
-</snippet>
