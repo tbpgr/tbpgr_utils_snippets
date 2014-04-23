@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+require 'markdown_string'
+]]></content>
+  <tabTrigger>require 'markdown_string'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>require 'markdown_string'</description>
+</snippet>

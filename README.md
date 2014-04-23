@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/04/23 - ver97: add MarkdownString#heading3, heading4, heading5, heading6
 * 2014/04/22 - ver96: add MarkdownString.heading2
 * 2014/04/21 - ver95: add MarkdownString.heading1. remove File.insert_bom.
 * 2014/04/20 - ver94: add Integer#palindromic_prime

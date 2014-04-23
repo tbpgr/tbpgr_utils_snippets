@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+MarkdownString
+]]></content>
+  <tabTrigger>MarkdownString class'</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>MarkdownString class</description>
+</snippet>

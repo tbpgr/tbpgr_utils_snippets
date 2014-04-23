@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+heading3
+]]></content>
+  <tabTrigger>heading3</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>heading3 method</description>
+</snippet>
