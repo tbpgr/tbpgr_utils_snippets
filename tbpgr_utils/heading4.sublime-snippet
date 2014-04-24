@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-heading4
+heading4 ${1:text}
 ]]></content>
   <tabTrigger>heading4</tabTrigger>
   <scope>source.ruby</scope>

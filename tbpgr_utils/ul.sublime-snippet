@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ul ${1:texts}
+]]></content>
+  <tabTrigger>ul</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ul method</description>
+</snippet>
