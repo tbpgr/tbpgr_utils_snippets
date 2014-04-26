@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+hr
+]]></content>
+  <tabTrigger>hr</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>hr method</description>
+</snippet>
