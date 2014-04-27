@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+italic ${1:texts}
+]]></content>
+  <tabTrigger>italic</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>italic method</description>
+</snippet>

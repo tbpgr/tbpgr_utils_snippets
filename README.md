@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/04/27 - ver101: add MarkdownString#italic
 * 2014/04/26 - ver100: add MarkdownString#hr
 * 2014/04/25 - ver99: add MarkdownString#ol
 * 2014/04/24 - ver98: add MarkdownString#ul
