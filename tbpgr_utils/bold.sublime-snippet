@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bold ${1:texts}
+]]></content>
+  <tabTrigger>bold</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>bold method</description>
+</snippet>
