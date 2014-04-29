@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+backquotes ${1:text}
+]]></content>
+  <tabTrigger>backquotes</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>backquotes method</description>
+</snippet>
