@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+link ${1:label}, ${2:url}
+]]></content>
+  <tabTrigger>link</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>link method</description>
+</snippet>
