@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+kernel_send ${1:method_name}
+]]></content>
+  <tabTrigger>kernel_send</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>kernel_send method</description>
+</snippet>

@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/05/04 - ver107: add Array#kernel_send
 * 2014/05/02 - ver106: add MarkdownString#codes
 * 2014/05/01 - ver105: add MarkdownString#code
 * 2014/04/30 - ver104: add MarkdownString#link
