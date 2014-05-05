@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+uniq
+]]></content>
+  <tabTrigger>uniq</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>uniq method</description>
+</snippet>
