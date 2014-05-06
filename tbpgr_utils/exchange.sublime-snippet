@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+exchange ${1:one}, ${2:other}
+]]></content>
+  <tabTrigger>exchange</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>exchange method</description>
+</snippet>
