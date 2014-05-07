@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+sum
+]]></content>
+  <tabTrigger>sum</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>sum method</description>
+</snippet>
