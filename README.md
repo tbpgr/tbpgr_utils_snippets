@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/05/08 - ver111: add Array#average
 * 2014/05/07 - ver110: add Array#sum
 * 2014/05/06 - ver109: add Kernel#exchange
 * 2014/05/05 - ver108: add String#uniq
