@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+justify_char ${1:separator}
+]]></content>
+  <tabTrigger>justify_char</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>justify_char method</description>
+</snippet>
