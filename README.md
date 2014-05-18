@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/05/18 - ver116: add Object#grep_protected_instance_method, Object#grep_private_instance_method
 * 2014/05/17 - ver115: add Object#grep_method
 * 2014/05/16 - ver114: add Object#grep_public_instance_method
 * 2014/05/13 - ver113: add Array#uniq_size

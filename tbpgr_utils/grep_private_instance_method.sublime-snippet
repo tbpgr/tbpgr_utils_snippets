@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+grep_private_instance_method ${1:search}, ${2:all}
+]]></content>
+  <tabTrigger>grep_private_instance_method</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>grep_private_instance_method method</description>
+</snippet>
