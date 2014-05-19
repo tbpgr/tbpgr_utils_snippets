@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+each_digit ${1:block}
+]]></content>
+  <tabTrigger>each_digit</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>each_digit method</description>
+</snippet>
