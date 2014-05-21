@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+reverse_each_digit ${1:block}
+]]></content>
+  <tabTrigger>reverse_each_digit</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>reverse_each_digit method</description>
+</snippet>

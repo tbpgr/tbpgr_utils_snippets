@@ -18,6 +18,7 @@ git clone https://github.com/tbpgr/tbpgr_utils_snippets.git
 * These snippets base is created by SublimeSunippetter gem. after generate base, I fix snippets manually.
 
 ## History
+* 2014/05/21 - ver119: add Integer#reverse_each_digit
 * 2014/05/20 - ver118: add Integer#each_digit_with_index
 * 2014/05/19 - ver117: add Integer#each_digit
 * 2014/05/18 - ver116: add Object#grep_protected_instance_method, Object#grep_private_instance_method
