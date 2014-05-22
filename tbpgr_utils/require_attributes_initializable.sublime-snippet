@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-require 'attributes_initializable'
+require 'attr_enumerable'
 ]]></content>
-  <tabTrigger>require 'attributes_initializable'</tabTrigger>
+  <tabTrigger>require 'attr_enumerable'</tabTrigger>
   <scope>source.ruby</scope>
-  <description>require 'attributes_initializable'</description>
+  <description>require 'attr_enumerable'</description>
 </snippet>

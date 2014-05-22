@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+include AttrEnumerable
+]]></content>
+  <tabTrigger>include AttrEnumerable</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include AttrEnumerable</description>
+</snippet>
